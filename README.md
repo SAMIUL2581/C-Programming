@@ -17,8 +17,8 @@ My goals are to:
 | No. | Topic | Status |
 |---|---|---|
 | 01 | Hello World | Completed |
-| 02 | Data Types | In Progress |
-| 03 | Type Conversion | Not Started |
+| 02 | Data Types | Completed |
+| 03 | Type Conversion | In Progress |
 | 04 | Input / Output | Not Started |
 | 05 | Decision Making | Not Started |
 | 06 | Loops | Not Started |

@@ -18,8 +18,8 @@ My goals are to:
 |---|---|---|
 | 01 | Hello World | Completed |
 | 02 | Data Types | Completed |
-| 03 | Type Conversion | In Progress |
-| 04 | Input / Output | Not Started |
+| 03 | Type Conversion | Completed |
+| 04 | Input / Output | In Progress  |
 | 05 | Decision Making | Not Started |
 | 06 | Loops | Not Started |
 | 07 | Arrays | Not Started |

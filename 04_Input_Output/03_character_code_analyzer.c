@@ -5,7 +5,7 @@ int main() {
     int a, b;
 
     a = getchar();
-    getchar();  // Enter-এর newline বাদ দেওয়া
+    getchar(); 
     b = getchar();
 
     printf("First Character Code : %d\n", a);

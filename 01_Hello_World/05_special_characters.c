@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    printf("\"C Programming\" \n");
-     printf("100 %% \n");
-      printf("D:\\Programming\\c");
+    printf("\n\t\"C Programming\" \n");
+     printf("\t100 %% \n");
+      printf("\tc\\Programming\\c\n\n");
     return 0;
 }
